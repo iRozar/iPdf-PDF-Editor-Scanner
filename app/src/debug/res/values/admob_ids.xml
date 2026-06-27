@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  DEBUG-ONLY AdMob IDs. These are Google's OFFICIAL TEST IDs, so debug builds always
+  show test ads (every size fills) and you never risk your account by viewing your own
+  live ads while testing.
+
+  Release builds ignore this file and use the real IDs in src/main/res/values/admob_ids.xml.
+-->
+<resources>
+    <string name="admob_app_id" translatable="false">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="admob_banner_unit_id" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
+</resources>

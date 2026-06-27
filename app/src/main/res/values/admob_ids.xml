@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  AdMob IDs. The values below are Google's OFFICIAL TEST IDs — safe to build and run with;
+  they always show test ads and won't risk your account.
+
+  >>> Before publishing, replace BOTH values with your real IDs from the AdMob console:
+      - admob_app_id        : AdMob > App settings > App ID   (format ca-app-pub-XXXX~XXXX)
+      - admob_banner_unit_id: AdMob > Ad units > your banner  (format ca-app-pub-XXXX/XXXX)
+
+  Keep using the TEST banner unit while developing — clicking your own LIVE ads violates
+  AdMob policy. Swap in the real banner unit only for the release build.
+-->
+<resources>
+    <string name="admob_app_id" translatable="false">ca-app-pub-2108893679425036~1964684900</string>
+    <string name="admob_home_banner" translatable="false">ca-app-pub-2108893679425036/8174870039</string>
+    <string name="admob_files_banner" translatable="false">ca-app-pub-2108893679425036/6516559037</string>
+    <string name="admob_settings_banner" translatable="false">ca-app-pub-2108893679425036/3722874730</string>
+    <string name="admob_tools_banner" translatable="false">ca-app-pub-2108893679425036/2166250486</string>
+    <string name="admob_viewer_banner" translatable="false">ca-app-pub-2108893679425036/9175501640</string>
+    <!-- Kept for backward compatibility if needed -->
+    <string name="admob_banner_unit_id" translatable="false">ca-app-pub-2108893679425036/8174870039</string>
+</resources>

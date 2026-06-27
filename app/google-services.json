@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "977486015092",
+    "project_id": "ipdfmaster",
+    "storage_bucket": "ipdfmaster.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977486015092:android:cc1639169cf4ea3fd9bf21",
+        "android_client_info": {
+          "package_name": "com.irozar.ipdfmaster"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7PEQY35vI4Qyh9pknZGCwIVd4YPxeHyE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

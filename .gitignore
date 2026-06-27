@@ -1,0 +1,34 @@
+*.iml
+.gradle
+.kotlin
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+.env
+debug.keystore
+
+# Build outputs / release artifacts
+build/
+app/release/
+*.apk
+*.aab
+*.aab.idsig
+*.keystore
+*.jks
+
+# Python cache (tooling)
+__pycache__/
+*.pyc
+
+# IDE
+.idea/
